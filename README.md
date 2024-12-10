@@ -6,5 +6,4 @@ Android Studio'da kotlin kullanılarak geliştirilmiştir. Veriler Firebase kull
     <img src="3.png" alt="Resim 3" style="width: 15%;">
     <img src="4.png" alt="Resim 4" style="width: 15%;">
     <img src="5.png" alt="Resim 5" style="width: 15%;">
-    <img src="6.png" alt="Resim 6" style="width: 15%;">
 </div>
