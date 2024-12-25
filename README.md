@@ -1,8 +1,8 @@
 ## ⚙️ Kelompok 1 PTI D Pemrogaman Mobile:
-* Refiansyah Galuh ridha pratama (23050974120)
-* Achilleus danatha B (23050974122)
-* Muhammad angga pratama  (23050974128)
-* Hamdi ahnaf aswana (23050974148)
+* Refiansyah Galuh Ridha Pratama (23050974120)
+* Achilleus Danatha B (23050974122)
+* Muhammad Angga Pratama  (23050974128)
+* Hamdi Ahnaf Aswana (23050974148)
 
 ## ⚙️ presentasi Minggu ke : 12
 
